@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a student at the University of Texas at Austin majoring in Computer Science. I am always eager to work on a new project spanning from app development, full-stack development, artifical intelligence, machine learning, data science, and data structures to new areas of CS. Always looking for the next challenge and leadership opportunity. 
+I am a student at the University of Texas at Austin majoring in Computer Science. I am always eager to work on a new project spanning from app development, full-stack development, artifical intelligence, machine learning, data science, data structures, and systems development to emerging areas of CS. Always looking for the next challenge and leadership opportunity. 
 
 - 📫 How to reach me: rohanballa@utexas.edu
 
