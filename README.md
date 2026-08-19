@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a student at the University of Texas at Austin majoring in Computer Science. Broad interests in startups/VC. Technical interests in computer architecture, distributed systems, AI/ML, and infrastructure.
+I am a student at the University of Texas at Austin majoring in Computer Science and Math graduating May 2028. Broad interests in startups/VC. Technical interests in computer architecture, distributed systems, AI/ML, and infrastructure.
 
 - 📫 How to reach me: rohanballa@utexas.edu
 
