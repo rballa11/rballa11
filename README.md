@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a student at the University of Texas at Austin majoring in Computer Science and Math graduating May 2028. Broad interests in startups/VC. Technical interests in computer architecture, distributed systems, AI/ML, and infrastructure.
 
-- 📫 How to reach me: rohanballa@utexas.edu
+- 📫 How to reach me: rohanballa [at] gmail [dot] com
 
 <!--
 **rballa11/rballa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
